@@ -12,7 +12,7 @@ generating and viewing fractal images.
 
 ## Demo
 
-![https://github.com/jhutchings99/fractal-image-generator/blob/main/fractal-image-demo.gif]
+![](https://github.com/jhutchings99/fractal-image-generator/blob/main/fractal-image-demo.gif)
 
 
 ## Installation
