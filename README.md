@@ -9,6 +9,12 @@ Graphical User Interface (GUI) version with an interactive display for
 generating and viewing fractal images.
 
 
+
+## Demo
+
+![https://github.com/jhutchings99/fractal-image-generator/blob/main/fractal-image-demo.gif]
+
+
 ## Installation
 
 Install fractal-image-generator with Make
